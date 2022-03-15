@@ -27,10 +27,15 @@ another one
 
 *this text should be in italics*
 
-sfsf
+sooo funny 😹
+
+term
+: definition of the word term is a place or think can be used to update your code
 
 
-[click this! for more info on vim](www.google.com)
+
+
+[click this! for more info on vim](https//www.google.com)
 
 what I want to here is add a footnote. [^1]
 
@@ -41,6 +46,5 @@ task list here:
 - [ ] do some other stuff
 
 
-try out some ==highlighting==
-
+[^1]: This is the foot note I was thinking of
 
