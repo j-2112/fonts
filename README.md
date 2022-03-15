@@ -24,8 +24,7 @@ above should be a ruler
 
 another one
 
-
-*this text should be in italics*
+__this text would be in italics as well__
 
 sooo funny 😹
 
@@ -33,9 +32,9 @@ term
 : definition of the word term is a place or think can be used to update your code
 
 
+---
 
-
-[click this! for more info on vim](https//www.google.com)
+[click this! for more info on vim](https://www.google.com)
 
 what I want to here is add a footnote. [^1]
 
